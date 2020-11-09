@@ -1,5 +1,5 @@
 <p align="left">
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20BY-GHosT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/zphisher.png"></a>
@@ -21,13 +21,13 @@
 
 * `apt update`
 * `apt install git curl php wget -y`
-* `git clone git://github.com/htr-tech/zphisher.git`
+* `git clone git://github.com/teamghost897/GHosT-phisher.git`
 * `cd zphisher`
-#### > Run : `bash zphisher.sh`
+#### > Run : `bash ghostphisher.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl wget php -y ; git clone git://github.com/htr-tech/zphisher.git ; cd zphisher ; bash zphisher.sh
+apt update ; apt install git curl wget php -y ; git clone git://github.com/teamghost897/GHosT-phisher.git ; cd ghostphisher ; bash ghostphisher.sh
 ```
 <br>
 <p align="center">
